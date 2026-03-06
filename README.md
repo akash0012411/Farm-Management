@@ -1,1 +1,7 @@
 # Farm-Management
+Team Members:
+AKASH V
+AKASH K
+MUGILAN V
+MOHAMED SAHIL M
+ROHITH A
